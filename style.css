@@ -1,0 +1,36 @@
+h1 {
+  text-align:center;
+}
+
+h2 {
+  text-align:center; font-size: 25px
+}
+
+.saw {
+  color: gray; text-decoration-line: none;
+}
+
+#active {
+  color: pink; text-decoration: underline; font-size: 25px;
+}
+
+p {
+  text-align:justify;
+}
+
+.center {
+  display: block; margin-left: auto; margin-right: auto; width: 600; height: 400;
+}
+
+.main {
+  display: block; margin-left: auto; margin-right: auto; width: 700; height: 500;
+}
+
+body {
+  text-align: justify;
+}
+
+a {
+  color: green;
+  text-decoration-line: none;
+}
